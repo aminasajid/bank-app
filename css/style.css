@@ -1,0 +1,13 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+   
+}
+.text1{
+    text-align: justify;
+}
